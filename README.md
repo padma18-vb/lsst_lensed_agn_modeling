@@ -11,4 +11,6 @@ All files must be stored under the data folder -- this is where the notebooks lo
 
 Note: Code to produce plots in `catalog_creation.ipynb` and `population_level_inference.ipynb` rely on large datasets from cosmoDC2 and MCMC chains from the hierarchical inference respectively. These files cannot be uploaded to GitHub and are hosted at this Zenodo link: 10.5281/zenodo.17412880
 
+The primary catalog that we work with (fiducal results are produced using this) is under data/fiducial_test_data.csv. The column schema for this is in test_data_metadata.csv.
+
 Please reach out to pv10@illinois.edu if you have any questions!
