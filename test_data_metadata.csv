@@ -1,0 +1,69 @@
+Column,Unit,Description
+cosmology_parameters_cosmology_name,-,Cosmology model name
+detector_parameters_background_noise,e-/pixel,Background noise in the detector
+detector_parameters_ccd_gain,e-/ADU,CCD gain
+detector_parameters_exposure_time,s,Exposure time
+detector_parameters_magnitude_zero_point,mag,Magnitude zero point
+detector_parameters_num_exposures,-,Number of exposures
+detector_parameters_pixel_scale,arcsec/pixel,Pixel scale
+detector_parameters_read_noise,e-,Read noise
+detector_parameters_sky_brightness,mag/arcsec^2,Sky brightness
+lens_light_parameters_R_sersic,arcsec,Sersic radius of lens light
+lens_light_parameters_center_x,arcsec,Lens light center x-coordinate
+lens_light_parameters_center_y,arcsec,Lens light center y-coordinate
+lens_light_parameters_e1,-,Ellipticity component 1 of lens light
+lens_light_parameters_e2,-,Ellipticity component 2 of lens light
+lens_light_parameters_mag_app,mag,Apparent magnitude of lens light
+lens_light_parameters_n_sersic,-,Sersic index of lens light
+lens_light_parameters_output_ab_zeropoint,mag,Output AB zeropoint of lens light
+lens_light_parameters_z_source,-,Redshift of lens light source
+main_deflector_parameters_center_x,arcsec,Main deflector center x-coordinate
+main_deflector_parameters_center_y,arcsec,Main deflector center y-coordinate
+main_deflector_parameters_dec_0,deg,Declination of main deflector
+main_deflector_parameters_e1,-,Ellipticity component 1 of main deflector
+main_deflector_parameters_e2,-,Ellipticity component 2 of main deflector
+main_deflector_parameters_gamma,-,External shear magnitude
+main_deflector_parameters_gamma1,-,External shear component 1
+main_deflector_parameters_gamma2,-,External shear component 2
+main_deflector_parameters_ra_0,deg,Right ascension of main deflector
+main_deflector_parameters_theta_E,arcsec,Einstein radius of main deflector
+main_deflector_parameters_z_lens,-,Redshift of main deflector
+obj_index,-,No description available
+point_source_parameters_compute_time_delays,s,Time delays for point sources
+point_source_parameters_lens_ps_offset,arcsec,Lens point source offset
+point_source_parameters_mag_app,mag,Apparent magnitude of point source
+point_source_parameters_mag_pert_0,mag,Perturbation magnitude of image 0
+point_source_parameters_mag_pert_1,mag,Perturbation magnitude of image 1
+point_source_parameters_mag_pert_2,mag,Perturbation magnitude of image 2
+point_source_parameters_mag_pert_3,mag,Perturbation magnitude of image 3
+point_source_parameters_magnification_0,-,Magnification of image 0
+point_source_parameters_magnification_1,-,Magnification of image 1
+point_source_parameters_magnification_2,-,Magnification of image 2
+point_source_parameters_magnification_3,-,Magnification of image 3
+point_source_parameters_num_images,-,Number of images for point source
+point_source_parameters_output_ab_zeropoint,mag,Output AB zeropoint for point source
+point_source_parameters_x_image_0,arcsec,X-coordinate of image 0
+point_source_parameters_x_image_1,arcsec,X-coordinate of image 1
+point_source_parameters_x_image_2,arcsec,X-coordinate of image 2
+point_source_parameters_x_image_3,arcsec,X-coordinate of image 3
+point_source_parameters_x_point_source,arcsec,X-coordinate of point source
+point_source_parameters_y_image_0,arcsec,Y-coordinate of image 0
+point_source_parameters_y_image_1,arcsec,Y-coordinate of image 1
+point_source_parameters_y_image_2,arcsec,Y-coordinate of image 2
+point_source_parameters_y_image_3,arcsec,Y-coordinate of image 3
+point_source_parameters_y_point_source,arcsec,Y-coordinate of point source
+point_source_parameters_z_point_source,-,Redshift of point source
+point_source_parameters_z_source,-,Redshift of source
+psf_fwhm,arcsec,Full width at half maximum of PSF
+psf_parameters_point_source_supersampling_factor,-,Supersampling factor for point source
+psf_parameters_psf_type,-,Type of PSF
+seed,-,Random seed used for simulation
+source_parameters_R_sersic,arcsec,Sersic radius of source
+source_parameters_center_x,arcsec,Source center x-coordinate
+source_parameters_center_y,arcsec,Source center y-coordinate
+source_parameters_e1,-,Ellipticity component 1 of source
+source_parameters_e2,-,Ellipticity component 2 of source
+source_parameters_mag_app,mag,Apparent magnitude of source
+source_parameters_n_sersic,-,Sersic index of source
+source_parameters_output_ab_zeropoint,mag,Output AB zeropoint of source
+source_parameters_z_source,-,Redshift of source
