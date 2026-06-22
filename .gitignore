@@ -418,3 +418,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# manually added paths
+py_files/.ipynb_checkpoints/
+py_files/config_stash/.ipynb_checkpoints/
+py_files/train_configs/.ipynb_checkpoints/
