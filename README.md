@@ -1,7 +1,7 @@
 # LSST Lensed AGN Modeling
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17412879.svg)](https://doi.org/10.5281/zenodo.17412879)
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![arXiv](https://shields.io)](https://arxiv.org/abs/2510.20778)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.20778-b31b1b.svg)](https://arxiv.org/abs/2510.20778)
 
 
 Source code of 'Lens Model Accuracy in the Expected LSST Lensed AGN Sample'. Contains network outputs, data and code to produce all figures in the paper.
